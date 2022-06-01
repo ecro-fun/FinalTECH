@@ -1,4 +1,5 @@
 # FinalTECH 乱序技艺
+
 A Slimefun addon about making the world so damn better
 
 It includes many machines with unique function, which will make a hole change to Slimefun gameplay.
@@ -12,9 +13,6 @@ It's not completed now, and more object will be added.
 它目前仍处于开发中
 
 ---
-
-###注意
-    跨大版本升级可能会有物品无法兼容或损坏的问题
 
 2.0-preview
 > 更新了诸多内容\
